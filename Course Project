@@ -7,7 +7,7 @@ Team Members
 
 Problem statement:
 
-Analysing the International air traffic in Indian territories from Jan-2015 to Aug-2017. Based on
-1)City-pair wise 2)Country wise and 3) Airline wise datasets.
+Analysing the International air traffic in Indian territories from Jan-2015 to Aug-2017. With the data of
+1)City-pair wise 2)Country wise and 3) Airline wise booking details.
 Based on different quaters. Analysis have to be made on Country-pair,City-pair and Airlines. 
-To determine the most influenced country,place or airlines the passengers travell in mass numbers.
+To determine the most influenced country,place or airlines the passengers travel in mass numbers.
